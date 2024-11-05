@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://itataopo.github.io/Wfq/sitemap_index.txt
+Sitemap: https://itataopo.github.io/YlS/sitemap_index.txt
+Sitemap: https://itataopo.github.io/mwp/sitemap_index.txt
+Sitemap: https://itataopo.github.io/rYR/sitemap_index.txt
